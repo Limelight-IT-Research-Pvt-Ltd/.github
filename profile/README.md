@@ -5,13 +5,13 @@
 LimelightIT is a deep tech company providing digitisation solutions incorporating technologies like edge computing, cloud computing, AI and IOT. We have served illustrious clients and have gained hands-on experience and understanding of the IOT and manufacturing sectors.
 
 
-# 🛠 Technical Skills 
+# 🛠 Team Technical Skills 
 Embedded Skills : PCB Designing & Debugging , Embedded C Programming \
 Data Science Skills : Advanced Excel, Python , Machine Learning , Statistics \
 Software Development : Odoo ,Other Python Libraries\
 Other : Word ,Excel ,Chatgpt 
 
-# 😎 Soft Skills
+# 😎 Team Soft Skills
 Problem-Solving , Critical-Thinking , Innovative , Analytical-Mindset , Business Management , Leadership  
 # 📡 Projects
 
